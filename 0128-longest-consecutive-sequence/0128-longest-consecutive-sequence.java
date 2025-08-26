@@ -3,11 +3,13 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
         int[] arr = nums;
-        int count = 0;
+        int count = 1;
         int ccount = 1;
-        if (arr.length==1){
-            return 1;
+
+        if (arr.length==0){
+            return 0;
         }
+       
         for (int i = 1; i < n; i++) {
             if (arr[i] - arr[i - 1] == 1) {
                 ccount++;
