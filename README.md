@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mddanish10/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/mddanish10/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mddanish10/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mddanish10/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mddanish10/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
