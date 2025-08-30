@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mddanish10/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [2048-build-array-from-permutation](https://github.com/mddanish10/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mddanish10/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/mddanish10/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mddanish10/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
