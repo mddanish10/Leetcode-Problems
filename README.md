@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mddanish10/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mddanish10/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mddanish10/Leetcode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2048-build-array-from-permutation](https://github.com/mddanish10/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mddanish10/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mddanish10/Leetcode-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mddanish10/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mddanish10/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mddanish10/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mddanish10/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
