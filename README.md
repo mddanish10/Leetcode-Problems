@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mddanish10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mddanish10/Leetcode-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mddanish10/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/mddanish10/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mddanish10/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mddanish10/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mddanish10/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mddanish10/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0907-koko-eating-bananas](https://github.com/mddanish10/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
