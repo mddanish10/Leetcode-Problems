@@ -2,21 +2,21 @@ class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int low = max(weights);
         int high = sum(weights);
-        int nodays = Integer.MAX_VALUE;
+        
 
         while (low <= high) {
 
             int mid = low + (high - low) / 2;
             int fun = countnodays(weights, mid);
             if (fun <= days) {
-                nodays = mid;
+              
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
 
-        return nodays;
+        return low;
     }
 
     public static int sum(int[] weights) {
