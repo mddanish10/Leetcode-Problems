@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mddanish10/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mddanish10/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/mddanish10/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/mddanish10/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mddanish10/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mddanish10/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0907-koko-eating-bananas](https://github.com/mddanish10/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mddanish10/Leetcode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mddanish10/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
