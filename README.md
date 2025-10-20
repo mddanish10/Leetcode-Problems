@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mddanish10/Leetcode-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mddanish10/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mddanish10/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mddanish10/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mddanish10/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mddanish10/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mddanish10/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
