@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mddanish10/Leetcode-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mddanish10/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mddanish10/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mddanish10/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mddanish10/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mddanish10/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mddanish10/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mddanish10/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/mddanish10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mddanish10/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/mddanish10/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mddanish10/Leetcode-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
